@@ -1,0 +1,25 @@
+body div{
+    width: 1000px;
+    height: 1100px;
+    border: 1px solid #000;
+    background-color: #2B95DF;
+    margin: auto;
+}
+body div header{
+    width: 1000px;;
+    height: 100px;
+    background-color: #00529B;
+    margin: auto;
+}
+body div header h1{
+    margin: auto;
+}
+body div nav{
+    width: 1000px;
+    height: 50px;
+    background-color: #00109B;
+    margin: auto;
+}
+body div nav img{
+    margin-left: 10px;
+}
